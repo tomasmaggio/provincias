@@ -1,0 +1,74 @@
+/*@import url('')*/
+
+
+
+
+body{
+    background-color: azure;
+    
+    background-image: url(../Imagenes/Nuevo\ proyecto.jpg);
+
+
+    background-attachment: fixed;
+
+    background-size: cover;
+
+
+
+    font-weight: 600;
+
+
+
+    /*
+    tipo de fuente:
+    font-family: ...
+
+
+    tamaño de fuente:
+    font-size: 1.3em
+
+    grosor de la letra:
+    font-weight: 500
+
+
+    estilo de la fuente:
+    font-style: italic
+
+    */ 
+
+    
+}
+
+
+
+h1{
+    background: rgb(2,0,36);
+    background: rgb(44,179,113);
+    background: linear-gradient(90deg, rgba(44,179,113,1) 6%, rgba(12,138,135,1) 22%);
+    text-align: center;
+
+
+
+
+
+
+
+    /*
+    espacio entre letras:
+    letter-spacing: 5px
+
+    alineacion de texto:
+    text-align: center
+    
+    */
+}
+.alineacion-imagen {
+    float: center;
+    widht: 100px;
+    height: 150px;
+
+    
+}
+
+
+
