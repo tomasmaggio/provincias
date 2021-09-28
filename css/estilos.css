@@ -70,5 +70,16 @@ h1{
     
 }
 
+table {
+    border-collapse: none;
+}
+tr{
+    background-color: whitesmoke;
+}
+
+.centrado{
+    text-align: center;
+}
+
 
 
