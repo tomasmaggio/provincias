@@ -16,6 +16,7 @@ body{
 
 
     font-weight: 600;
+    
 
 
 
@@ -78,6 +79,11 @@ tr{
 }
 
 .centrado{
+    text-align: center;
+}
+
+footer{
+    background-color: whitesmoke;
     text-align: center;
 }
 
